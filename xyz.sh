@@ -4,7 +4,6 @@ pkg install python2
 pkg install cowsay
 pkg install figlet
 pip2 install lolcat
-sh xyz.sh
 clear
 figlet "LOGIN"|lolcat
 echo "SILAKAN LOGIN TOOLS DULU"|lolcat
